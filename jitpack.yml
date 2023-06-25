@@ -1,4 +1,4 @@
 
 install: 
   - FILE="-Dfile=iar_core.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.iar.iar_core -DartifactId=iar_core -Dversion=1.8.0 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.iar.iar_core -DartifactId=iar_core -Dversion=1.8.1 -Dpackaging=aar -DgeneratePom=true
